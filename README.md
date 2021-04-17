@@ -33,7 +33,8 @@ Add a screenshot of your solution. The easiest way to do this is to use Firefox 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://gitlab.com/rijamg/profile-card-component)
+- Solution URL: [Add solution URL here](https://github.com/rijamg/profile-card-component-2)
+- Live Site URL: [Add live site URL here](https://rijamg.github.io/profile-card-component-2/)
 
 ## My process
 
